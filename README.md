@@ -280,14 +280,24 @@ It demonstrates the ability to **bridge raw data with financial decision-making*
 ---
 
 ## 📂 Repository Structure
-Ecommerce-Sales-Analysis/
-│
-├── screenshots/        # Dashboard images
-├── PowerBI/            # Power BI (.pbix) file
-├── SQL/                # SQL views & transformations
-├── docker-compose.yml  # PostgreSQL setup
-├── convert_to_csv.py   # Data preparation
-└── README.md
+
+- screenshots/  
+  Dashboard images used in the README
+
+- PowerBI/  
+  Power BI report file (.pbix)
+
+- SQL/  
+  SQL views and transformations used to build the analytics layer
+
+- docker-compose.yml  
+  PostgreSQL setup for running the database locally
+
+- convert_to_csv.py  
+  Data preparation script (Kaggle dataset → clean CSV)
+
+- README.md  
+  Project documentation
 
 ---
 
@@ -295,10 +305,12 @@ Ecommerce-Sales-Analysis/
 
 **Elnazossadat Hosseininia**  
 Email: elnaz.hnia@gmail.com
+
 Finance & Data Analytics  
 Power BI | SQL | Financial Modeling  
 
 ---
 
 ⭐This project demonstrates my ability to translate raw transactional data into finance-ready insights, executive dashboards, and forward-looking revenue analysis suitable for real-world business decision-making.
+
 
