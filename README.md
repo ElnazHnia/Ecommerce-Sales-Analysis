@@ -187,7 +187,9 @@ This dashboard supports:
 - Working capital analysis
 - Financial position reporting
 - Management and stakeholder review
-  
+
+---
+
 ## 📊 Revenue Overview & Forecasting
 
 This dashboard provides a comprehensive commercial and financial analysis of revenue performance across time, geography, and products.
@@ -299,3 +301,4 @@ Power BI | SQL | Financial Modeling
 ---
 
 ⭐This project demonstrates my ability to translate raw transactional data into finance-ready insights, executive dashboards, and forward-looking revenue analysis suitable for real-world business decision-making.
+
