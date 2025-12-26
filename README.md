@@ -41,6 +41,14 @@ Data Analyst roles, from data preparation to executive-ready reporting.
 
 The **Revenue Insights** dashboard provides a time-based analysis of sales performance, focusing on trends, volatility, and product contribution.
 
+Key metrics:
+- Total Sales & Total Profit
+- Monthly revenue trends
+- Rolling average sales
+- Product-level revenue contribution
+
+![Revenue Insights](screenshots/Revenue%20Insights.jpg)
+
 ### Key Analyses
 
 **1. Total Sales by Month**
@@ -83,6 +91,13 @@ This dashboard supports:
 ### 2️⃣ Income Statement (P&L)
 
 The **Income Statement** dashboard provides a finance-focused view of company performance, following standard **Profit & Loss (P&L)** reporting structure used by finance and controlling teams.
+
+Key metrics:
+- Revenue, COGS, Gross Margin, OPEX, EBIT
+- Year-over-year comparison
+- Country-level financial performance
+
+![Income Statement](screenshots/Income%20Statement.jpg)
 
 ### Key Analyses
 
@@ -143,6 +158,14 @@ This dashboard supports:
 ### 3️⃣ Balance Sheet
 
 The **Balance Sheet** dashboard presents a structured view of the company’s financial position, following standard balance sheet logic used in finance and accounting.
+
+Key metrics:
+- Assets vs Liabilities
+- Accounts Receivable aging buckets
+- Cash, Inventory, and AR breakdown
+- Financial position by country
+
+![Balance Sheet](screenshots/Balance%20Sheet.jpg)
 
 ### Key Analyses
 
@@ -307,6 +330,7 @@ Power BI | SQL | Financial Modeling
 ---
 
 ⭐This project demonstrates my ability to translate raw transactional data into finance-ready insights, executive dashboards, and forward-looking revenue analysis suitable for real-world business decision-making.
+
 
 
 
