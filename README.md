@@ -278,26 +278,16 @@ This project reflects real-world responsibilities of:
 It demonstrates the ability to **bridge raw data with financial decision-making**, not just create visuals.
 
 ---
-
-## 📂 Repository Structure
-
-- screenshots/  
-  Dashboard images used in the README
-
-- PowerBI/  
-  Power BI report file (.pbix)
-
-- SQL/  
-  SQL views and transformations used to build the analytics layer
-
-- docker-compose.yml  
-  PostgreSQL setup for running the database locally
-
-- convert_to_csv.py  
-  Data preparation script (Kaggle dataset → clean CSV)
-
-- README.md  
-  Project documentation
+```bash
+├── screenshots/          # Dashboard images (Balance Sheet, Income Statement, Revenue Insights)
+├── PowerBI/              # Power BI dashboard (.pbix file)
+├── SQL/                  # SQL views, transformations, and financial logic
+├── DATA/                 # Raw and processed dataset (Online Retail – Kaggle)
+├── configs/              # Database and environment configuration files
+├── utils/                # Data preparation utilities (e.g., convert_to_csv.py)
+├── docker-compose.yml    # PostgreSQL setup for local analytics environment
+└── README.md             # Project documentation
+```
 
 ---
 
@@ -312,5 +302,6 @@ Power BI | SQL | Financial Modeling
 ---
 
 ⭐This project demonstrates my ability to translate raw transactional data into finance-ready insights, executive dashboards, and forward-looking revenue analysis suitable for real-world business decision-making.
+
 
 
