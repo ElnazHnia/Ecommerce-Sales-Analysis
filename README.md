@@ -1,8 +1,11 @@
-# 📊 Ecommerce Sales & Financial Analysis (Power BI + SQL)
+# 📊 # Ecommerce Sales & Financial Performance Dashboard (Power BI + SQL)
 
-This project presents an **end-to-end financial and business analytics solution** built using **Power BI, SQL, and financial modeling concepts**, based on the **Online Retail Dataset (Kaggle)**.
+This project analyzes an e-commerce dataset using SQL, PostgreSQL, and Power BI 
+to deliver finance-focused dashboards including Revenue Insights, Income Statement, 
+and Balance Sheet views.  
 
-The objective is to transform raw transactional data into **finance-grade insights**, including **Revenue Analysis, Income Statement (P&L), Balance Sheet**, forecasting, and **A/B testing**, similar to real-world tasks in **Finance Data Analyst / FP&A / Business Analyst** roles.
+The goal is to demonstrate end-to-end data analytics skills for Finance / Business 
+Data Analyst roles, from data preparation to executive-ready reporting.
 
 ---
 
@@ -304,6 +307,7 @@ Power BI | SQL | Financial Modeling
 ---
 
 ⭐This project demonstrates my ability to translate raw transactional data into finance-ready insights, executive dashboards, and forward-looking revenue analysis suitable for real-world business decision-making.
+
 
 
 
