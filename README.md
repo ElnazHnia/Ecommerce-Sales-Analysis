@@ -35,6 +35,16 @@ Data Analyst roles, from data preparation to executive-ready reporting.
 
 ---
 
+## 💼 Business Questions Answered
+
+- How has revenue evolved over time by month and year?
+- Which products and countries contribute most to total revenue?
+- What is the company’s gross profit and profit margin?
+- How healthy is the balance sheet in terms of assets vs liabilities?
+- How much revenue is at risk due to overdue receivables?
+
+---
+
 ## 📈 Dashboards Overview
 
 ### 1️⃣ Income Statement (P&L)
@@ -330,6 +340,7 @@ Power BI | SQL | Financial Modeling
 ---
 
 ⭐This project demonstrates my ability to translate raw transactional data into finance-ready insights, executive dashboards, and forward-looking revenue analysis suitable for real-world business decision-making.
+
 
 
 
