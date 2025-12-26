@@ -278,6 +278,8 @@ This project reflects real-world responsibilities of:
 It demonstrates the ability to **bridge raw data with financial decision-making**, not just create visuals.
 
 ---
+## 📂 Repository Structure
+
 ```bash
 ├── screenshots/          # Dashboard images (Balance Sheet, Income Statement, Revenue Insights)
 ├── PowerBI/              # Power BI dashboard (.pbix file)
@@ -302,6 +304,7 @@ Power BI | SQL | Financial Modeling
 ---
 
 ⭐This project demonstrates my ability to translate raw transactional data into finance-ready insights, executive dashboards, and forward-looking revenue analysis suitable for real-world business decision-making.
+
 
 
 
