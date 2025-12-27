@@ -175,7 +175,7 @@ Key metrics:
 - Cash, Inventory, and AR breakdown
 - Financial position by country
 
-![Balance Sheet](screenshots/Balance%20Sheet.jpg)
+![Revenue Insights](screenshots/Balance Sheet.jpg)
 
 ### Key Analyses
 
@@ -340,6 +340,7 @@ Power BI | SQL | Financial Modeling
 ---
 
 ⭐This project demonstrates my ability to translate raw transactional data into finance-ready insights, executive dashboards, and forward-looking revenue analysis suitable for real-world business decision-making.
+
 
 
 
