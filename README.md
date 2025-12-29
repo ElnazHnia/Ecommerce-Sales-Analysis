@@ -121,7 +121,6 @@ The **Revenue Insights** dashboard provides a time-based analysis of sales perfo
 Key metrics:
 - Total Sales & Total Profit
 - Monthly revenue trends
-- Rolling average sales
 - Product-level revenue contribution
 
 ![Revenue Insights](screenshots/Revenue%20Insights.jpg)
@@ -133,26 +132,17 @@ Key metrics:
 - Highlights seasonality and fluctuations in customer demand.
 - Enables quick identification of high-performing and weak periods.
 
-**2. Rolling Average Sales (3-Month)**
-- A 3-month rolling average is overlaid as a line chart.
-- Smooths short-term volatility to reveal the underlying sales trend.
-- Useful for monitoring momentum and early trend changes.
-
-**3. Previous Month Sales Comparison**
-- Compares current month revenue with the previous month.
-- Supports short-term performance evaluation and month-over-month analysis.
-
-**4. Revenue by Product**
+**2. Revenue by Product**
 - Ranks products based on total revenue contribution.
 - Identifies key revenue drivers and long-tail products.
 - Supports product portfolio and pricing decisions.
 
-**5. Key Performance Indicators**
+**3. Key Performance Indicators**
 - Total Sales
 - Total Profit
 - Average Profit Margin
 
-**6. Transaction-Level Detail**
+**4. Transaction-Level Detail**
 - Detailed table including invoice date, country, product, revenue, profit, and profit margin.
 - Enables drill-down analysis from aggregated trends to individual transactions.
 
@@ -340,6 +330,7 @@ Power BI | SQL | Financial Modeling
 ---
 
 ⭐This project demonstrates my ability to translate raw transactional data into finance-ready insights, executive dashboards, and forward-looking revenue analysis suitable for real-world business decision-making.
+
 
 
 
